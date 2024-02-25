@@ -1,0 +1,12 @@
+.about_section {
+    padding: 50px;
+    text-align: center;
+    background-color: #3a3b3d;
+    color: white;
+    border: solid 1px white;
+    border-radius: 13px;
+  }
+
+.about_section{
+    margin: 20px;
+}
