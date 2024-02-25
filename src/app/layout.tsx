@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 import "./globals.css";
-
+import "bootstrap/dist/css/bootstrap.min.css"; // Import bootstrap CSS
 import SiteNavbar from '@/components/SiteNavbar';
 
 export const metadata: Metadata = {
